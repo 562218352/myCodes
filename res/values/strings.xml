@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <string name="app_name">SwipeListViewTest</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+=======
+    <string name="app_name">ABDMapTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">百度地图测试</string>
+>>>>>>> 182b92d164053e0b3fd1e6c882d7b0c450b629b7
 
 </resources>

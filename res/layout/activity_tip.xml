@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-=======
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
->>>>>>> 182b92d164053e0b3fd1e6c882d7b0c450b629b7
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -10,29 +6,13 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-<<<<<<< HEAD
-    tools:context=".MainActivity" >
-
-    <com.zh.swipelistviewtest.SwipeDismissListView 
-        android:id="@+id/swipelist" 
-        android:layout_width="match_parent"
-        android:layout_height="match_parent" />"
-
-</RelativeLayout>
-=======
     tools:context=".MainActivity"
     android:orientation="vertical" >
 
     <TextView
+        android:id="@+id/tip"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/title" />
-    
-    <com.baidu.mapapi.map.MapView
-        android:id="@+id/map"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:clickable="true" />
 
 </LinearLayout>
->>>>>>> 182b92d164053e0b3fd1e6c882d7b0c450b629b7
